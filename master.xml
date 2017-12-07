@@ -24,10 +24,10 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
-           name="coreos/portage-stable"
+           name="chrismckenzie/portage-stable"
            groups="minilayout" />
   <project path="src/third_party/coreos-overlay"
-           name="coreos/coreos-overlay"
+           name="chrismckenzie/coreos-overlay"
            groups="minilayout" />
 
   <project path="src/third_party/efunctions"
@@ -43,7 +43,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/init"
-           name="coreos/init"
+           name="chrismckenzie/init"
            groups="minilayout" />
 
   <project path="src/third_party/bootengine"
@@ -79,7 +79,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/baselayout"
-           name="coreos/baselayout"
+           name="chrismckenzie/baselayout"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-cloudinit"
